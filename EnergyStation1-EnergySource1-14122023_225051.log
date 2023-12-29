@@ -1,0 +1,12 @@
+Dec 14, 2023 10:50:51 PM FileLogger searchLogFiles
+INFO: This is an information message aboutEnergyStation1andEnergySource2
+Dec 14, 2023 10:50:51 PM FileLogger searchLogFiles
+WARNING: This is a warning message.
+Dec 14, 2023 10:50:51 PM FileLogger searchLogFiles
+SEVERE: This is a severe error message.
+Dec 14, 2023 10:50:51 PM FileLogger searchLogFiles
+INFO: This is an information message aboutEnergyStation2andEnergySource3
+Dec 14, 2023 10:50:51 PM FileLogger searchLogFiles
+WARNING: This is a warning message.
+Dec 14, 2023 10:50:51 PM FileLogger searchLogFiles
+SEVERE: This is a severe error message.

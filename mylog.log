@@ -1,0 +1,6 @@
+Dec 14, 2023 9:42:01 PM FileLogger main
+INFO: This is an information message.
+Dec 14, 2023 9:42:01 PM FileLogger main
+WARNING: This is a warning message.
+Dec 14, 2023 9:42:01 PM FileLogger main
+SEVERE: This is a severe error message.
